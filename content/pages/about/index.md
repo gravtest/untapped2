@@ -5,7 +5,7 @@ layout: aboutlayout
 heroHeading: About Us
 heroSubHeading: Established in 1902, we're a team of advisors that puts your business
   first.
-heroBackground: https://source.unsplash.com/sO-JmQj95ec/1600x1000
+heroBackground: "/uploads/logo.png"
 
 ---
 <div>
